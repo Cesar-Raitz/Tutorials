@@ -1,8 +1,8 @@
-![](figs/falando-cmm-02.png)
+![Falando em C++ #02](figs/falando-cmm-02.png)
 
 # Ferramentas de OOP
 
-Não estou publicando tanto quanto eu gostaria. Essa pandemia interminável, a guerra fútil da Rússia e o calor de verão do Rio me deixam cansado. Ainda tem a incerteza de correr atrás de  emprego. Mas ante-ontem, mês passado, reuni coragem para falar sobre as ferramentas de programação orientada a objetos (OOP) e especialização do comportamento da classe `Deque`, vista no [primeiro post da série](https://cienciacomcafeina.blogspot.com/2021/10/falando-cmm-01.html). Este tutorial é um pouco avançado, pra quem já conhece um pouco de programação em linguagem C/C++.
+Não estou publicando tanto quanto eu gostaria. Essa pandemia interminável, a guerra fútil da Rússia e o calor de verão do Rio me deixam cansado. Ainda tem a incerteza de correr atrás de  emprego. Mas no mês passado, reuni coragem para falar sobre as ferramentas de programação orientada a objetos (OOP) e especialização do comportamento da classe `Deque`, vista no [primeiro post da série](https://cienciacomcafeina.blogspot.com/2021/10/falando-cmm-01.html). Este tutorial é um pouco avançado, pra quem já conhece um pouco de programação em linguagem C/C++.
 
 **Dificuldade**: :coffee::coffee:
 
@@ -215,7 +215,6 @@ assert(pilha.next() == 10 and pilha.size() == 10);
 * Escrevi a macro `FILL_WITH()` para inicializar uma `Stack` ou `Queue` com uma lista padrão de C. Mas o C++ também possui ferramentas pra isso. Só fiquei com preguiça de comentar :stuck_out_tongue_winking_eye:.
 
 ## Referências
-* [Falando em C++ #01.](https://cienciacomcafeina.blogspot.com/2021/10/falando-cmm-01.html)
-* [Referência para C++.](https://en.cppreference.com/w/cpp/language)
-* [Sobrecarga de funções.](https://docs.microsoft.com/pt-br/cpp/cpp/function-overloading?view=msvc-170)
-* [Código fonte no github.](https://github.com/Cesar-Raitz/Tutorials/tree/main/br/c%2B%2B/falando-cmm-02)
+* [Falando em C++ #01](https://cienciacomcafeina.blogspot.com/2021/10/falando-cmm-01.html)
+* [Referência para C++](https://en.cppreference.com/w/cpp/language)
+* [Sobrecarga de funções](https://docs.microsoft.com/pt-br/cpp/cpp/function-overloading?view=msvc-170)
